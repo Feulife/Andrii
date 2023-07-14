@@ -1,5 +1,5 @@
-Hi 👋, I'm Andrii Racilewicz
-A passionate Frontend Developer from Poland
+Hi 👋, I'm Andrii Ratsilevych
+A passionate JavaScript Developer 
 
 
 📫 How to reach me andrii.racilewicz@gmail.com
